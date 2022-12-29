@@ -1,0 +1,135 @@
+{"sets": {"aoneblock.markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "AOneBlock","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldborder.markerset": {"hide": false,"circles": {"worldborder_slimefun": {"fillcolor": "#000000","color": "#FF0000","markup": false,"x": 0.00,"zr": 10000.00,"y": 64.00,"weight": 3,"z": 0.00,"xr": 10000.00,"label": "Koniec sveta.","opacity": 1.00,"fillopacity": 0.00}
+}
+,"areas": {}
+,"label": "WorldBorder","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"residence.markerset": {"hide": false,"circles": {}
+,"areas": {"main.SuchBandit_5": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-5427.00,-5427.00,-5327.00,-5327.00]
+,"weight": 3,"z": [-4009.00,-3909.00,-3909.00,-4009.00]
+,"ybottom": 64.00,"label": "SuchBandit_5","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">SuchBandit_5<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">monsters: false<br \/>day: true<\/span><\/div><\/div>"}
+,"main.ves": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-3483.00,-3483.00,-3480.00,-3480.00]
+,"weight": 3,"z": [-2050.00,-2046.00,-2046.00,-2050.00]
+,"ybottom": 64.00,"label": "ves","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">ves<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Greg6905<\/span><br \/><\/div><\/div>"}
+,"main.SuchBandit": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [6315.00,6315.00,6365.00,6365.00]
+,"weight": 3,"z": [-4852.00,-4802.00,-4802.00,-4852.00]
+,"ybottom": 64.00,"label": "SuchBandit","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">SuchBandit<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">monsters: false<\/span><\/div><\/div>"}
+,"main.SuchBandit_3": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [5292.00,5292.00,5392.00,5392.00]
+,"weight": 3,"z": [-2953.00,-2853.00,-2853.00,-2953.00]
+,"ybottom": 64.00,"label": "SuchBandit_3","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">SuchBandit_3<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/><\/div><\/div>"}
+,"main.nikol": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [2472.00,2472.00,2572.00,2572.00]
+,"weight": 3,"z": [-4103.00,-4003.00,-4003.00,-4103.00]
+,"ybottom": 64.00,"label": "nikol","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">nikol<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">o0_PsychoGirl_0o<\/span><br \/><\/div><\/div>"}
+,"main.SuchBandit_4": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [5270.00,5270.00,5370.00,5370.00]
+,"weight": 3,"z": [-3198.00,-3098.00,-3098.00,-3198.00]
+,"ybottom": 64.00,"label": "SuchBandit_4","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">SuchBandit_4<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/><\/div><\/div>"}
+,"main.mansion": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [634.00,634.00,734.00,734.00]
+,"weight": 3,"z": [9577.00,9677.00,9677.00,9577.00]
+,"ybottom": 64.00,"label": "mansion","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">mansion<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">KINGZ123<\/span><br \/><\/div><\/div>"}
+,"main.sexualluv_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-1059.00,-1059.00,-960.00,-960.00]
+,"weight": 3,"z": [-5021.00,-4922.00,-4922.00,-5021.00]
+,"ybottom": 64.00,"label": "sexualluv_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">sexualluv_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">sexualluv<\/span><br \/><\/div><\/div>"}
+,"main.Ztraceneyy_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-6218.00,-6218.00,-6118.00,-6118.00]
+,"weight": 3,"z": [-4873.00,-4773.00,-4773.00,-4873.00]
+,"ybottom": 64.00,"label": "Ztraceneyy_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Ztraceneyy_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Ztraceneyy<\/span><br \/><\/div><\/div>"}
+,"main.frem2": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [3453.00,3453.00,3529.00,3529.00]
+,"weight": 3,"z": [7630.00,7655.00,7655.00,7630.00]
+,"ybottom": 64.00,"label": "frem2","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">frem2<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Fremiik<\/span><br \/><\/div><\/div>"}
+,"main.mineboy10": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [382.00,382.00,420.00,420.00]
+,"weight": 3,"z": [759.00,809.00,809.00,759.00]
+,"ybottom": 64.00,"label": "mineboy10","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">mineboy10<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">mineboy10<\/span><br \/><\/div><\/div>"}
+,"main.villige": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-5700.00,-5700.00,-5601.00,-5601.00]
+,"weight": 3,"z": [4323.00,4422.00,4422.00,4323.00]
+,"ybottom": 64.00,"label": "villige","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">villige<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">jakobalik<\/span><br \/><\/div><\/div>"}
+,"main.Fremiik_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [3399.00,3399.00,3498.00,3498.00]
+,"weight": 3,"z": [7637.00,7646.00,7646.00,7637.00]
+,"ybottom": 64.00,"label": "Fremiik_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Fremiik_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Fremiik<\/span><br \/><\/div><\/div>"}
+,"main.sexualluv": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-1167.00,-1167.00,-1068.00,-1068.00]
+,"weight": 3,"z": [-5269.00,-5170.00,-5170.00,-5269.00]
+,"ybottom": 64.00,"label": "sexualluv","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">sexualluv<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">sexualluv<\/span><br \/><\/div><\/div>"}
+,"main.POMOC": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [1337.00,1337.00,1384.00,1384.00]
+,"weight": 3,"z": [9770.00,9817.00,9817.00,9770.00]
+,"ybottom": 64.00,"label": "POMOC","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">POMOC<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Adu_Xko<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">monsters: false<\/span><\/div><\/div>"}
+,"main.end": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-1776.00,-1776.00,-1676.00,-1676.00]
+,"weight": 3,"z": [1313.00,1413.00,1413.00,1313.00]
+,"ybottom": 64.00,"label": "end","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">end<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">KINGZ123<\/span><br \/><\/div><\/div>"}
+,"main.such_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [4715.00,4715.00,4815.00,4815.00]
+,"weight": 3,"z": [-1885.00,-1785.00,-1785.00,-1885.00]
+,"ybottom": 64.00,"label": "such_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">such_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">monsters: false<br \/>sun: true<\/span><\/div><\/div>"}
+,"main.tomxoid": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [5964.00,5964.00,6064.00,6064.00]
+,"weight": 3,"z": [-5938.00,-5838.00,-5838.00,-5938.00]
+,"ybottom": 64.00,"label": "tomxoid","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">tomxoid<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">tomxoid<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">respawn: false<br \/>waterflow: false<br \/>note: false<br \/>door: false<br \/>hotfloor: false<br \/>lavaflow: false<br \/>snowtrail: false<br \/>nmonsters: false<br \/>firespread: true<br \/>nomobs: true<br \/>honeycomb: false<br \/>trade: false<\/span><\/div><\/div>"}
+,"main.greg1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-3915.00,-3915.00,-3909.00,-3909.00]
+,"weight": 3,"z": [-1947.00,-1939.00,-1939.00,-1947.00]
+,"ybottom": 64.00,"label": "greg1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">greg1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Greg6905<\/span><br \/><\/div><\/div>"}
+,"main.frem": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [3400.00,3400.00,3452.00,3452.00]
+,"weight": 3,"z": [7631.00,7662.00,7662.00,7631.00]
+,"ybottom": 64.00,"label": "frem","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">frem<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Fremiik<\/span><br \/><\/div><\/div>"}
+,"main.ondriksf": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [6365.00,6365.00,6465.00,6465.00]
+,"weight": 3,"z": [2409.00,2509.00,2509.00,2409.00]
+,"ybottom": 64.00,"label": "ondriksf","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">ondriksf<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Ondrik5_<\/span><br \/><\/div><\/div>"}
+,"main.SuchBandit_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [4715.00,4715.00,4815.00,4815.00]
+,"weight": 3,"z": [-1785.00,-1685.00,-1685.00,-1785.00]
+,"ybottom": 64.00,"label": "SuchBandit_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">SuchBandit_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">monsters: false<br \/>sun: true<\/span><\/div><\/div>"}
+,"main.benda": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-4222.00,-4222.00,-4122.00,-4122.00]
+,"weight": 3,"z": [2733.00,2833.00,2833.00,2733.00]
+,"ybottom": 64.00,"label": "benda","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">benda<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">benda<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">door: false<br \/>anvil: true<br \/>title: true<br \/>honey: false<br \/>cmonsters: false<br \/>witherdestruction: false<br \/>shoot: true<br \/>trample: false<br \/>nmonsters: false<br \/>witherdamage: false<br \/>nanimals: true<br \/>anvilbreak: false<br \/>monsters: false<br \/>honeycomb: false<br \/>trade: true<br \/>witherspawn: false<br \/>snowball: true<br \/>smonsters: true<\/span><\/div><\/div>"}
+,"main.SuchBandit_2": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [5169.00,5169.00,5269.00,5269.00]
+,"weight": 3,"z": [-2673.00,-2573.00,-2573.00,-2673.00]
+,"ybottom": 64.00,"label": "SuchBandit_2","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">SuchBandit_2<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">SuchBandit<\/span><br \/><\/div><\/div>"}
+,"main.FerdockLP": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-6186.00,-6186.00,-6086.00,-6086.00]
+,"weight": 3,"z": [4196.00,4296.00,4296.00,4196.00]
+,"ybottom": 64.00,"label": "FerdockLP","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">FerdockLP<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">FerdockLP<\/span><br \/><\/div><\/div>"}
+,"main.mijenka_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-1492.00,-1492.00,-1392.00,-1392.00]
+,"weight": 3,"z": [3369.00,3469.00,3469.00,3369.00]
+,"ybottom": 64.00,"label": "mijenka_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">mijenka_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Mijenka<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">phantomspawn: false<br \/>cmonsters: false<br \/>animals: true<br \/>nmonsters: false<br \/>move: false<br \/>monsters: false<br \/>nomobs: false<br \/>canimals: true<\/span><\/div><\/div>"}
+,"main.domcek_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-6351.00,-6351.00,-6251.00,-6251.00]
+,"weight": 3,"z": [-2463.00,-2363.00,-2363.00,-2463.00]
+,"ybottom": 64.00,"label": "domcek_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">domcek_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">P1xej<\/span><br \/><\/div><\/div>"}
+,"main.fremiik": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [3299.00,3299.00,3338.00,3338.00]
+,"weight": 3,"z": [-4569.00,-4470.00,-4470.00,-4569.00]
+,"ybottom": 64.00,"label": "fremiik","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">fremiik<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Fremiik<\/span><br \/><\/div><\/div>"}
+,"main.Zozarko": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-4122.00,-4122.00,-4078.00,-4078.00]
+,"weight": 3,"z": [2751.00,2844.00,2844.00,2751.00]
+,"ybottom": 64.00,"label": "Zozarko","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Zozarko<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Zozarko<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">bed: true<br \/>door: false<br \/>title: true<br \/>phantomspawn: false<br \/>lavaflow: false<br \/>nofly: false<br \/>cmonsters: false<br \/>animals: true<br \/>nmonsters: false<br \/>nanimals: true<br \/>piston: true<br \/>monsters: false<br \/>nomobs: false<br \/>enderpearl: false<br \/>mobkilling: true<\/span><\/div><\/div>"}
+,"main.dedinka_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-1076.00,-1076.00,-976.00,-976.00]
+,"weight": 3,"z": [872.00,972.00,972.00,872.00]
+,"ybottom": 64.00,"label": "dedinka_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">dedinka_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">KINGZ123<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">move: false<br \/>animalkilling: true<\/span><\/div><\/div>"}
+,"main.Paige": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-8271.00,-8271.00,-8221.00,-8221.00]
+,"weight": 3,"z": [-3634.00,-3584.00,-3584.00,-3634.00]
+,"ybottom": 64.00,"label": "Paige","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Paige<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Paige<\/span><br \/><\/div><\/div>"}
+,"main.JohntTV_1": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [138.00,138.00,238.00,238.00]
+,"weight": 3,"z": [1690.00,1790.00,1790.00,1690.00]
+,"ybottom": 64.00,"label": "JohntTV_1","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">JohntTV_1<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">JohntTV<\/span><br \/>Vlajky residence: <br \/><span style=\"font-weight:bold\">sun: true<\/span><\/div><\/div>"}
+,"main.Reisben55": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-3024.00,-3024.00,-2925.00,-2925.00]
+,"weight": 3,"z": [-7929.00,-7830.00,-7830.00,-7929.00]
+,"ybottom": 64.00,"label": "Reisben55","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Reisben55<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Reisben55<\/span><br \/><\/div><\/div>"}
+,"main.JustResidence": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-3145.00,-3145.00,-3046.00,-3046.00]
+,"weight": 3,"z": [-4304.00,-4205.00,-4205.00,-4304.00]
+,"ybottom": 64.00,"label": "JustResidence","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">JustResidence<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">mattscookie<\/span><br \/><\/div><\/div>"}
+,"main.EDO": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [839.00,839.00,939.00,939.00]
+,"weight": 3,"z": [9740.00,9840.00,9840.00,9740.00]
+,"ybottom": 64.00,"label": "EDO","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">EDO<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Adu_Xko<\/span><br \/><\/div><\/div>"}
+,"main.Dadik300_SVK_2": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-7388.00,-7388.00,-7288.00,-7288.00]
+,"weight": 3,"z": [-1390.00,-1290.00,-1290.00,-1390.00]
+,"ybottom": 64.00,"label": "Dadik300_SVK_2","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Dadik300_SVK_2<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Dadik300_SVK<\/span><br \/><\/div><\/div>"}
+,"main.Ztraceneyy": {"fillcolor": "#FFFF00","ytop": 64.00,"color": "#FF0000","markup": true,"x": [-6130.00,-6130.00,-6030.00,-6030.00]
+,"weight": 3,"z": [-4736.00,-4636.00,-4636.00,-4736.00]
+,"ybottom": 64.00,"label": "Ztraceneyy","opacity": 0.30,"fillopacity": 0.30,"desc": "<div><div><span style=\"font-size:140%;font-weight:bold\">Ztraceneyy<\/span><br \/> Vlastn\u00EDk: <span style=\"font-weight:bold\">Ztraceneyy<\/span><br \/><\/div><\/div>"}
+}
+,"label": "Residence","markers": {}
+,"lines": {}
+,"layerprio": 1}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_slimefun": {"markup": false,"x": -475.00,"icon": "world","y": 65.00,"dim": "16x16","z": 226.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1671721812096}

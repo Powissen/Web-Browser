@@ -1,0 +1,26 @@
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.Properties.Resources.resources
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.Form1.resources
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.Form1.dje.resources
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.Form1.en-150.resources
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\WebTest.csproj.CopyComplete
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Web Browser.exe.config
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Web Browser.exe
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\Web Browser.pdb
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\dje\Web Browser.resources.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\bin\Debug\en-150\Web Browser.resources.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\dje\Web Browser.resources.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\en-150\Web Browser.resources.dll
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\Web Browser.exe
+C:\Users\lukas\source\repos\WebTest\WebTest\obj\Debug\Web Browser.pdb
